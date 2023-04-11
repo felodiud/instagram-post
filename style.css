@@ -5,22 +5,31 @@
 
 body {
     background-color: lightblue;
-    height: 725px;
-    width: 525px;
 }
 
 .post {
     color:black;
+    margin: auto;
+    height: 725px;
+    width: 525px;
+    margin-top: 25px;
+    
 }
 .encabezado {
     width: 525px;
     height: 75px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    
 }
 
-.encabezado img {
-    object-fit: contain;
-}
 
 .fa-html5 {
-    font-size: 75px;
+    font-size: 30px;
+    margin-top: 25px;
+}
+.fa-ellipsis-vertical {
+    font-size: 30px;
+    margin-top: 25px;
 }
