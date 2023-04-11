@@ -1,0 +1,26 @@
+* {
+    border: 1px dashed red;
+    min-height: 10px;
+}
+
+body {
+    background-color: lightblue;
+    height: 725px;
+    width: 525px;
+}
+
+.post {
+    color:black;
+}
+.encabezado {
+    width: 525px;
+    height: 75px;
+}
+
+.encabezado img {
+    object-fit: contain;
+}
+
+.fa-html5 {
+    font-size: 75px;
+}
