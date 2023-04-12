@@ -1,5 +1,5 @@
 
-// $ pip3 install flask && python3 server.py
+# $ pip3 install flask && python3 server.py
 try:
     # try to import flask, or return error if has not been installed
     from flask import Flask

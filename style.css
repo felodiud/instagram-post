@@ -21,7 +21,7 @@ body {
     display: flex;
     justify-content: space-between;
     flex-direction: row;
-    
+    background-color: white;    
 }
 
 
@@ -32,4 +32,9 @@ body {
 .fa-ellipsis-vertical {
     font-size: 30px;
     margin-top: 25px;
+}
+
+img {
+    width: 525px;
+    
 }
