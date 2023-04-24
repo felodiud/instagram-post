@@ -19,7 +19,6 @@ body {
     width: 525px;
     height: 75px;
     display: flex;
-    justify-content: space-between;
     flex-direction: row;
     background-color: white;    
 }
@@ -28,13 +27,37 @@ body {
 .fa-html5 {
     font-size: 30px;
     margin-top: 25px;
+    margin-left: 18px;
 }
 .fa-ellipsis-vertical {
     font-size: 30px;
     margin-top: 25px;
+    margin-left: 390px;
+}
+#felipe {
+    margin-top: 0%;
 }
 
+#html5  {
+    height: 20px;
+    border-bottom: 0px;
+
+}
+#html5 strong {
+    border-bottom: 0%;
+}
 img {
     width: 525px;
     
+}
+#trespuntos {
+    width: 425px;
+    
+}
+#letrashtml {
+    margin-bottom: 2px;
+
+}
+#felipehtml5 {  
+    margin-top: 5px;
 }
