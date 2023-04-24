@@ -1,10 +1,6 @@
-* {
-    border: 1px dashed red;
-    min-height: 10px;
-}
 
 body {
-    background-color: lightblue;
+    background-color: black;
 }
 
 .post {
