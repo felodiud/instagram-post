@@ -60,4 +60,38 @@ img {
 }
 #felipehtml5 {  
     margin-top: 5px;
+    font-family: 'Proxima Nova', sans-serif;
+    padding-left: 10px;
+
+}
+.comentario {
+    background-color: white;
+    height: 275px;
+
+}
+
+.fa-heart   {
+    margin-left: 17px;
+
+}
+.foto {
+    height: 350px;
+}
+
+#imagenescomentario i {
+    padding-top: 24px;
+    font-size: 40px;
+}
+
+.fa-bookmark {
+    padding-left: 300px;
+}
+
+.lorem {
+    font-family: 'Proxima Nova', sans-serif;
+    padding-left: 17px;
+}
+.likes {
+    font-family: 'Proxima Nova', sans-serif;
+    padding-left: 17px;
 }
